@@ -2,15 +2,21 @@
 
 Latest Movies DevHub App
 
-## Getting Started
+Resources for the project:
 
-This project is a starting point for a Flutter application.
+- [Movie Database API](https://www.themoviedb.org/)
+- [JSON to Class converter](https://www.themoviedb.org/)
+- [Postman - API testing](https://www.postman.com/)
 
-A few resources to get you started if this is your first Flutter project:
+Learning Resources
+- [Awsome Tutorials, alot of the things we do as standard come from here](https://resocoder.com)
+- [Overview of state management, the core of flutter](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options)
+- [Great talk from DartConf 2018 about state managment](https://www.youtube.com/watch?v=zKXz3pUkw9A)
+- [Talk about implementing conplex adminations in Flutter](https://www.youtube.com/watch?v=FCyoHclCqc8)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
+
+
+For help getting started with Flutter, view the Flutter docs
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
